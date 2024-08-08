@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hit-7624
+- 👋 Hi, I’m Hit Patel
 - 🌱 I’m currently learning WebDev
 
 <!---

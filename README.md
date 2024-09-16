@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hit Patel
-- 🌱 I’m currently learning WebDev
 
 <!---
 hit-7624/hit-7624 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

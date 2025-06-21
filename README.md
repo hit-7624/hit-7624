@@ -1,5 +1,3 @@
-
-<br>
 <h1 align="center">Hi, I'm Hit Jasoliya<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <h2 font-size="20" align="center">Competitive Programmer | Full Stack Developer</h2>

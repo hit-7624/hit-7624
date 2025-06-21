@@ -6,6 +6,10 @@
 <p>🌱 I’m currently learning <strong>Next JS and TypeScript</strong> 
 </li>
 
+<li>
+  <p>🏫 I’m currently pursuing B.Tech. in Computer Science & Engineering at <strong>Sardar Vallabhbhai National Institute of Technology, Surat</strong></p>
+</li>
+
 
 
 <li>

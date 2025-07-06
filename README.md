@@ -72,6 +72,9 @@
   <a href="https://restfulapi.net/" target="_blank">
     <img src="https://img.shields.io/badge/REST APIs-02569B.svg?style=for-the-badge&amp;logo=api&amp;logoColor=white" alt="restapi">
   </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img alt="prisma" src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&amp;logo=prisma&amp;logoColor=white">
+  </a>
 </p>
 <h3 align="center">Database</h3>
 <p align="center">
@@ -80,6 +83,9 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="mysql"> 
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img alt="postgresql" src="https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"> 
   </a>
 </p>
 <h3 align="center">Version Control</h3>
@@ -104,6 +110,9 @@
   </a>
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="ubuntu">
+  </a>
+  <a href="https://turbo.build/" target="_blank">
+    <img alt="turborepo" src="https://img.shields.io/badge/Turborepo-EF4444.svg?style=for-the-badge&amp;logo=turborepo&amp;logoColor=white">
   </a>
 </p>
 <hr>

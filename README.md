@@ -3,25 +3,25 @@
 <h2 font-size="20" align="center">Competitive Programmer | Full Stack Developer</h2>
 <ul>
 <li>
-<p>🌱 I’m currently learning <strong>DevOps</strong> 
+<p>🌱 I’m currently learning <strong>DevOps</strong>.</p>
 </li>
 
 <li>
-  <p>🏫 I’m currently pursuing B.Tech. in Computer Science & Engineering at <strong>Sardar Vallabhbhai National Institute of Technology, Surat</strong></p>
+  <p>🏫 I’m currently pursuing B.Tech. in Computer Science & Engineering at <strong>Sardar Vallabhbhai National Institute of Technology, Surat</strong>.</p>
 </li>
 
 
 
 <li>
-<p>💬 Ask me about <strong>Data Structures and Algorithms</strong></p>
+<p>💬 Ask me about <strong>Data Structures and Algorithms</strong>.</p>
 </li>
 <li>
-<p>✉️ Reach me at <strong><a href="mailto:hitjasoliya@icloud.com">hitjasoliya@icloud.com</a></strong></p>
+<p>✉️ Reach me at <strong><a href="mailto:hitjasoliya@icloud.com">hitjasoliya@icloud.com</a></strong>.</p>
 </li>
 
 </ul>
 <hr>
-<h3 align="center">Coding Profiles</h3>
+<h3 align="center">Coding Profiles:</h3>
 <p align="center">
   <a href="https://codeforces.com/profile/hit_7624" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="hit_7624">
@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://cplusplus.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="cpp">
@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="python">
   </a>
 </p>
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frontend:</h3>
 <p align="center">
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="nextjs">
@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="tailwind">
   </a>
 </p>
-<h3 align="center">Backend</h3>
+<h3 align="center">Backend:</h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="nodejs"> 
@@ -79,7 +79,7 @@
     <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="prisma">
   </a>
 </p>
-<h3 align="center">Database</h3>
+<h3 align="center">Database:</h3>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="mongodb"> 
@@ -91,7 +91,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="postgresql"> 
   </a>
 </p>
-<h3 align="center">Version Control</h3>
+<h3 align="center">Version Control:</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git">
@@ -100,7 +100,7 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github">
   </a>
 </p>
-<h3 align="center">Preferred IDEs :</h3>
+<h3 align="center">Preferred IDEs:</h3>
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="vsCode"> 
@@ -109,7 +109,7 @@
     <img src="https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&amp;logo=cursor&amp;logoColor=white" alt="cursor">
   </a>
 </p>
-<h3 align="center">Tools :</h3>
+<h3 align="center">Tools:</h3>
 <p align="center"> 
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="postman">
@@ -128,7 +128,7 @@
   </a>
 </p>
 <hr>
-<h3 align="center">Reach me</h3>
+<h3 align="center">Reach me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/hit-jasoliya" target="_blank">
     <img src="https://img.shields.io/badge/Linked In-0A66C2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="hit-jasoliya">

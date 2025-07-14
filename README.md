@@ -3,7 +3,7 @@
 <h2 font-size="20" align="center">Competitive Programmer | Full Stack Developer</h2>
 <ul>
 <li>
-<p>🌱 I’m currently learning <strong>Next JS and TypeScript</strong> 
+<p>🌱 I’m currently learning <strong>DevOps</strong> 
 </li>
 
 <li>
@@ -45,20 +45,23 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="javascript"> 
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="typescript"> 
+  </a>
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="python">
   </a>
 </p>
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="tailwind">
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="bootstrap">
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="nextjs">
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="react"> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="tailwind">
   </a>
 </p>
 <h3 align="center">Backend</h3>
@@ -72,6 +75,9 @@
   <a href="https://restfulapi.net/" target="_blank">
     <img src="https://img.shields.io/badge/REST APIs-02569B.svg?style=for-the-badge&amp;logo=api&amp;logoColor=white" alt="restapi">
   </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="prisma">
+  </a>
 </p>
 <h3 align="center">Database</h3>
 <p align="center">
@@ -80,6 +86,9 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="mysql"> 
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="postgresql"> 
   </a>
 </p>
 <h3 align="center">Version Control</h3>
@@ -91,7 +100,7 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github">
   </a>
 </p>
-<h3 align="center">Preferred IDEs  &amp; Tools :</h3>
+<h3 align="center">Preferred IDEs :</h3>
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="vsCode"> 
@@ -99,11 +108,23 @@
   <a href="https://cursor.sh/" target="_blank">
     <img src="https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&amp;logo=cursor&amp;logoColor=white" alt="cursor">
   </a>
+</p>
+<h3 align="center">Tools :</h3>
+<p align="center"> 
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="postman">
   </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="ubuntu">
+  <a href="https://www.prisma.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="prisma">
+  </a>
+  <a href="https://turborepo.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Turborepo-000000.svg?style=for-the-badge&amp;logo=turborepo&amp;logoColor=white" alt="turborepo">
+  </a>
+  <a href="https://socket.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Socket.IO-010101.svg?style=for-the-badge&amp;logo=socket.io&amp;logoColor=white" alt="socketio">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank"> 
+    <img src="https://img.shields.io/badge/WebSockets-010101.svg?style=for-the-badge&amp;logo=websocket&amp;logoColor=white" alt="websockets">
   </a>
 </p>
 <hr>

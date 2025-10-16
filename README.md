@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Hit Jasoliya<img width="30px" ></h1>
+_<h1 align="center">hey 👋, i am hit.<img width="30px" ></h1>
 
-<h2 font-size="20" align="center">Competitive Programmer | Full Stack Developer</h2>
+<!-- <h1 align="center">Hi, I'm Hit Jasoliya<img width="30px" ></h1></h2>
 <ul>
 <li>
 <p>🌱 I’m currently learning <strong>DevOps</strong>.</p>
@@ -19,8 +19,8 @@
 <p>✉️ Reach me at <strong><a href="mailto:hitjasoliya@icloud.com">hitjasoliya@icloud.com</a></strong>.</p>
 </li>
 
-</ul>
-<hr>
+</ul> -->
+<!-- <hr> -->
 <h3 align="center">Coding Profiles:</h3>
 <p align="center">
   <a href="https://codeforces.com/profile/hit_7624" target="_blank">
@@ -75,9 +75,9 @@
   <a href="https://restfulapi.net/" target="_blank">
     <img src="https://img.shields.io/badge/REST APIs-02569B.svg?style=for-the-badge&amp;logo=api&amp;logoColor=white" alt="restapi">
   </a>
-  <a href="https://www.prisma.io/" target="_blank">
+  <!-- <a href="https://www.prisma.io/" target="_blank">
     <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&amp;logo=prisma&amp;logoColor=white" alt="prisma">
-  </a>
+  </a> -->
 </p>
 <h3 align="center">Database:</h3>
 <p align="center">
@@ -91,15 +91,8 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="postgresql"> 
   </a>
 </p>
-<h3 align="center">Version Control:</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git">
-  </a>
-  <a href="https://github.com/hit_7624" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github">
-  </a>
-</p>
+
+
 <h3 align="center">Preferred IDEs:</h3>
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -127,7 +120,35 @@
     <img src="https://img.shields.io/badge/WebSockets-010101.svg?style=for-the-badge&amp;logo=websocket&amp;logoColor=white" alt="websockets">
   </a>
 </p>
+<h3 align="center">DevOps & Version Control:</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git">
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github">
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes">
+  </a>
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="prometheus">
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana">
+  </a>
+  <a href="https://argoproj.github.io/cd/" target="_blank">
+    <img src="https://img.shields.io/badge/ArgoCD-FB7A24.svg?style=for-the-badge&logo=argo&logoColor=white" alt="argocd">
+  </a>
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx">
+  </a>
+</p>
 <hr>
+
 <h3 align="center">Reach me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/hit-jasoliya" target="_blank">
